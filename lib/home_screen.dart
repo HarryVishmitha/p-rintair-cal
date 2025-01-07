@@ -276,7 +276,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Width, Height & Firebase Data'),
+        title: Text('Printair Price Calculator'),
       ),
       body: SingleChildScrollView(
         child: Padding(

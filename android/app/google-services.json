@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462556531570",
+    "firebase_url": "https://printair-48b71-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "printair-48b71",
+    "storage_bucket": "printair-48b71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462556531570:android:9fbc67c3bcc938a70d6beb",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxnVpipHSIxRt4rbNk_xQUyoUwQuWTrQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
